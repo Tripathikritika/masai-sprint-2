@@ -1,0 +1,141 @@
+body {
+    background-color: brown;
+    margin: 0px;
+}
+
+#navbar {
+     
+    background-color: antiquewhite;
+}
+
+#universityLogo {
+
+    border-radius:300px;
+    
+}
+
+ li ,.float {
+    float: left;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+  }
+
+nav h1 {
+
+    color: crimson;
+    font-family: Aileron;
+    padding-top: 10px;
+    font-size: 55px;
+    text-align: center;
+
+}
+
+form.formClass {
+
+    display: table;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid crimson;
+    background-color:antiquewhite;
+
+}
+
+#formDiv {
+    margin-left: 25%;
+    width: 45%;
+    float: left;
+}
+
+div.formClass {
+
+    display: table-row;
+
+}
+
+label, input , select {
+
+    display: table-cell;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 15px;
+
+}
+
+label {
+
+    padding-right: 10px;
+    padding: 10px;
+
+}
+
+a {
+    font-size: 25px;
+    text-decoration: unset;
+}
+
+button {
+
+    padding: 15px 32px;
+    color: brown;
+    background-color:#F5F5DC;
+    border-radius: 15px;
+    border: 1px solid rgb(172, 16, 16);
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:   #B9F6CA;
+  }
+
+
+#tableDiv {
+
+    padding-left: 5px;
+    padding-top: 5%;
+}
+
+.buttonDiv{
+
+    margin: 10px;
+  
+}
+
+#buttonTable {
+    margin-left: 13%;
+    border: 0px solid white;
+}
+
+th{
+    padding:15px;
+    font-size:18px;
+    border: 1px solid black;
+    width: 20%;
+    font-family: Aileron;
+    color: black;
+    font-weight: bolder;
+    
+}
+
+#table {
+  
+    border:1px solid black;
+
+
+}
+
+#average {
+
+    font-size: 30px;
+    color: #F5F5DC;
+    padding:10px;
+}
+
+
